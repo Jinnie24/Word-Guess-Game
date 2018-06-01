@@ -1,0 +1,18 @@
+
+
+h1{
+    font-family: 'Permanent Marker', cursive;
+    text-align: center;
+    color: #747166;
+}
+h2 {
+    font-family: 'Handlee', cursive;
+    color: #781d11;
+}
+p {
+    font-family: 'Poppins', sans-serif;
+}
+
+body{
+    background-color: #e3dacf;
+}
